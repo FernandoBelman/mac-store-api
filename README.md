@@ -19,7 +19,7 @@ Esta es una API para gestionar productos de una tienda de Apple. Permite realiza
 2. Accede al directorio del proyecto:
 
     ```bash
-    cd mac_store_api
+    cd mac-store-api
     ```
 
 3. **Crea y activa un entorno virtual de Python** (opcional pero recomendado):
